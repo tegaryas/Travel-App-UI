@@ -12,5 +12,6 @@ Fonts
 - Inter from Google Fonts
 
 ### Screenshot UI
+<img src= "Travel%20App%20to%20Github.png" width=500>
 
 
